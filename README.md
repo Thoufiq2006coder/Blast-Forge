@@ -3,6 +3,23 @@
 
 ![BlastForge Gameplay](raylib/src/assests/images/Game_Interface.png)
 
+## 🎨 Visual Themes
+BlastForge features two distinct environments, each with unique color palettes and procedural elements. You can toggle between them instantly in-game by pressing **`T`**.
+
+### ☀️ Desert Operation
+A bright, sun-scorched battlefield featuring procedural cacti and earthy tones.
+* **Atmosphere:** Day / Orange Sky
+* **Player Colors:** Deep Blue & Burnt Orange
+
+![Desert Theme Preview](raylib/src/assests/images/Desert_Theme.png)
+
+### 🌙 Moonbase Night
+A high-contrast night mode with a starry sky and neon-lit tanks for high visibility.
+* **Atmosphere:** Night / Deep Navy Sky
+* **Player Colors:** Neon Orange & Bright Green
+
+![Moon Theme Preview](raylib/src/assests/images/Moon_Theme.png)
+
 
 ## 📖 About
 **BlastForge** is a 2D local multiplayer artillery game inspired by classics like *Tank Stars* and *Pocket Tanks*. Players take turns adjusting their aim and power to launch projectiles across a ballistic trajectory, trying to destroy the opponent's tank before being destroyed themselves.
